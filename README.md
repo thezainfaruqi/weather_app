@@ -1,4 +1,5 @@
 Weather App 🌦️
+
 Overview
 A simple Python-based command-line Weather App that fetches real-time weather data for any city using the OpenWeatherMap API. It displays the temperature, weather conditions, and a brief description of the current weather. This project is a beginner-friendly way to explore APIs, HTTP requests, and environment variable management in Python.
 
